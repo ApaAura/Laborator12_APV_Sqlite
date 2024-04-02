@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laborator12_APV_Sqlite", "Laborator12_APV_Sqlite\Laborator12_APV_Sqlite.csproj", "{893D8540-DC36-4EE5-827A-AC3C3DEC4922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893D8540-DC36-4EE5-827A-AC3C3DEC4922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893D8540-DC36-4EE5-827A-AC3C3DEC4922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893D8540-DC36-4EE5-827A-AC3C3DEC4922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893D8540-DC36-4EE5-827A-AC3C3DEC4922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02FC3CE-2389-4781-BD42-0673059A639D}
+	EndGlobalSection
+EndGlobal
