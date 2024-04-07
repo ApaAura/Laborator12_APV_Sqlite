@@ -55,6 +55,7 @@
             dataGridViewEmployeeList.Name = "dataGridViewEmployeeList";
             dataGridViewEmployeeList.Size = new Size(747, 166);
             dataGridViewEmployeeList.TabIndex = 8;
+            dataGridViewEmployeeList.CellClick += dataGridViewEmployeeList_CellClick;
             // 
             // panel1
             // 
