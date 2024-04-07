@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.Data.Sqlite;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Laborator12_APV_Sqlite.Entities
 {
-    internal class DataBaseContext
+    internal class DataBaseContext :DbContext
     {
         private readonly string? _connectionString;
         public DataBaseContext()
